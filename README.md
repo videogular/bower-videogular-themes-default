@@ -5,7 +5,7 @@ Default Videogular's theme for distribution on `bower`.
 
 ## Install theme
 
-Install [Videogular](http://www.videogular.com/) with Bower:
+Install [Videogular](http://www.videogular.com/) theme with Bower:
 
 `bower install videogular-themes-default`
 
