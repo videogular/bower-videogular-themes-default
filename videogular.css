@@ -23,6 +23,12 @@ videogular {
 	user-select: none;
 }
 
+videogular.fullscreen {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
 videogular video {
 	position: absolute;
     width: 100%;
