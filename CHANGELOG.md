@@ -1,5 +1,7 @@
 CHANGELOG
 ================
+## v0.3.1
+* No changes.
 
 ## v0.3.0
 * No changes.
