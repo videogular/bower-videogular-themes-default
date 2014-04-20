@@ -3,7 +3,7 @@ CHANGELOG
 
 ## v0.3.2
 * Now icons are setted as CSS classes.
-* Added package.json and Gruntfile.
+* Added gitignore, package.json and Gruntfile.
 
 ## v0.3.1
 * No changes.
