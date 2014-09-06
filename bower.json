@@ -1,6 +1,6 @@
 {
   "name": "videogular-themes-default",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "main": "./videogular.css",
   "dependencies": {
     "videogular": "latest"
