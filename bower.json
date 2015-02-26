@@ -3,6 +3,6 @@
   "version": "1.0.1",
   "main": "./videogular.css",
   "dependencies": {
-    "videogular": "1.0.0"
+    "videogular": "1.0.1"
   }
 }
