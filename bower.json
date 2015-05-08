@@ -1,8 +1,8 @@
 {
   "name": "videogular-themes-default",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "./videogular.css",
   "dependencies": {
-    "videogular": "1.2.0"
+    "videogular": "1.2.1"
   }
 }
