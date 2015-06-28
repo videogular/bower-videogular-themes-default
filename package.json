@@ -1,6 +1,6 @@
 {
-	"name": "videogular-theme-default",
-	"version": "0.3.1",
+	"name": "videogular-themes-default",
+	"version": "1.2.3",
 	"dependencies": {},
 	"devDependencies": {
 		"grunt": "~0.4.1",
