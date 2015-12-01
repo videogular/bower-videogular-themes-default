@@ -3,7 +3,12 @@
   "version": "1.3.2",
   "main": [
     "./videogular.css",
-    "./fonts/*"
+    "./fonts/videogular.woff",
+    "./fonts/videogular.ttf",
+    "./fonts/videogular.svg",
+    "./fonts/videogular.eot",
+    "./fonts/videogular.dev.svg"
+    }
   ],
   "dependencies": {
     "videogular": "~1.3.2"
